@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Java教程](README.md)
-* [README](docs/README.md)
+* [简介](docs/README.md)
   * [Java 库](docs/javalib/README.md)
     * [JMH 应用指南](docs/javalib/jmh.md)
     * [ZXing 应用指南](docs/javalib/zxing.md)
